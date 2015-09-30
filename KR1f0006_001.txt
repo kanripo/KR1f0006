@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經刋誤
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:04.703842
+#+PROPERTY: ID KR1f0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 孝經刋誤
 <pb:KR1f0006_WYG_001-1a>¶
 欽定四庫全書¶
 　孝經刋誤(古今文有不同/者别見考異)¶
@@ -218,4 +220,3 @@
 　　　前書考之亦無其實而通鑑皆誤信之其他此¶
 　　　類不一欲作一書論之而未暇也姑記於此云¶
 　孝經刋誤¶
-
